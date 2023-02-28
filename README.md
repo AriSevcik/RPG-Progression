@@ -25,6 +25,7 @@ Customizable progression: This is mostly skill-trees, giving the player the abil
 
     
 ## Approach from math perspective
+
 •	Linear curve: Y = aX + b
 
 ![imagen](https://user-images.githubusercontent.com/99729800/221762387-d54b03ea-b854-4c83-a798-4c88b6601baa.png)
