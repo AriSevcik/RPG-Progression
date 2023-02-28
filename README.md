@@ -31,16 +31,23 @@ In RPGs there is generally some kind of loop: be presented with an enemy, fight 
 There are a few things that can help keep the players engaged:
 
 •	Immersive effects: just to be clear, this does not necessarily mean realistic in any way, but if interesting things are happening in the screen like particles and vibration while there is sound effects that correspond to what is happening it’s easier to stay engaged, although overdoing it can also be a problem since too much stuff can become overwhelming.
+
 •	Challenge: if you player keeps getting challenged by the stuff happening in the loop. Be it for puzzles with no completely correct answer or slight scaling (which can cause its own set of problems if done in exaggeration), if the player can’t just mindlessly keep doing the same thing over and over again 
+
 •	Middle achievements: By giving the player small things to work toward or small events in between the big goals might make the progression not feel far and impossible to achieve normally.
 
 
 ## References:
 Leveling Up Progression Systems: https://www.youtube.com/watch?v=gDQX3jk5xxc
+
 How Great Games Beat The Grind: https://www.youtube.com/watch?v=nP1qLrXaDvE
+
 What Makes a Good Level Up System?: https://www.youtube.com/watch?v=Ae_zvm0-CQU
+
 How do you balance an RPG?: https://askagamedev.tumblr.com/post/634419522804334592/how-do-you-balance-an-rpg-seems-impossible-to-go
+
 GameDesign Math: RPG Level-based Progression: https://www.davideaversa.it/blog/gamedesign-math-rpg-level-based-progression/
+
 Level systems and character growth in RPG games: https://pavcreations.com/level-systems-and-character-growth-in-rpg-games/ 
 
 
