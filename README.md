@@ -39,9 +39,9 @@ There are a few things that can help keep the players engaged:
 Leveling Up Progression Systems: https://www.youtube.com/watch?v=gDQX3jk5xxc
 How Great Games Beat The Grind: https://www.youtube.com/watch?v=nP1qLrXaDvE
 What Makes a Good Level Up System?: https://www.youtube.com/watch?v=Ae_zvm0-CQU
-https://askagamedev.tumblr.com/post/634419522804334592/how-do-you-balance-an-rpg-seems-impossible-to-go
-https://www.davideaversa.it/blog/gamedesign-math-rpg-level-based-progression/
-https://pavcreations.com/level-systems-and-character-growth-in-rpg-games/ 
+How do you balance an RPG?: https://askagamedev.tumblr.com/post/634419522804334592/how-do-you-balance-an-rpg-seems-impossible-to-go
+GameDesign Math: RPG Level-based Progression: https://www.davideaversa.it/blog/gamedesign-math-rpg-level-based-progression/
+Level systems and character growth in RPG games: https://pavcreations.com/level-systems-and-character-growth-in-rpg-games/ 
 
 
 
