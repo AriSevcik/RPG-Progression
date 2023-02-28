@@ -1,4 +1,5 @@
 # RPG-Progression
+
 My name is Ariadna Sevcik, I'm a student of the Bachelor’s Degree in Video Games CITM, at UPC.
 
 ## Introduction:
