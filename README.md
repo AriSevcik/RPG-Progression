@@ -10,24 +10,30 @@ Most, if not all games have some sort of progression, it is that thing that make
   This is the more common type in RPGs, extrinsic progression means that the progression happens inside the game, outside of the player. This one also gets divided further, it is important to note that none of these types of progression are exclusive, they are frequently mixed together: 
   
 Direct progression: You have certain milestones that, when completed, give you a predetermined power or let you continue the story. Most Pokémon games along with games like Undertale or Spiritfarer fit into this category.
+
     ![d561da40e03b08bd953ce932cd85570c](https://user-images.githubusercontent.com/99729800/221762033-3f98a9d4-6ddc-4667-8eb8-c2f2c237de3d.gif)
 
 Independent progression: Here fall things like skins that you can get in some way but don’t change the game; weapons that are not better or worse than others, just work differently and other similar things. Independent progression can be used to get some short-term goals for the player. Enter the gungeon is one example of this.
+
 ![DearCompetentBoilweevil-size_restricted](https://user-images.githubusercontent.com/99729800/221762058-1d1bd683-2b71-4f47-94cf-7919475abee9.gif)
 
     
 Customizable progression: This is mostly skill-trees, giving the player the ability to choose how they want a character or environment to evolve, each choice unlocking the possibility of specific evolution for the player. The Witcher and Assassin’s Creed have this type of progression
+
 ![imagen](https://user-images.githubusercontent.com/99729800/221761826-62a40f83-3b06-4465-8d9f-9559e1a229d1.png)
 
     
 ## Approach from math perspective
 •	Linear curve: Y = aX + b
+
 ![imagen](https://user-images.githubusercontent.com/99729800/221762387-d54b03ea-b854-4c83-a798-4c88b6601baa.png)
 
 •	Quadratic curve: Y = aX² + bX + c
+
 ![imagen](https://user-images.githubusercontent.com/99729800/221762434-32a0a66e-f944-4eb5-8ad3-cecd22b7ae35.png)
 
 •	Logarithmic curve: Y = aX + b(log X) + c
+
 ![imagen](https://user-images.githubusercontent.com/99729800/221762507-92bffb66-4474-4d7e-afeb-f0fb3eae9769.png)
 
 You can change any this formulas as it is more convinient for your game, or use a more complex one.
