@@ -11,7 +11,7 @@ Most, if not all games have some sort of progression, it is that thing that make
   
 Direct progression: You have certain milestones that, when completed, give you a predetermined power or let you continue the story. Most Pokémon games along with games like Undertale or Spiritfarer fit into this category.
 
-    ![d561da40e03b08bd953ce932cd85570c](https://user-images.githubusercontent.com/99729800/221762033-3f98a9d4-6ddc-4667-8eb8-c2f2c237de3d.gif)
+![d561da40e03b08bd953ce932cd85570c](https://user-images.githubusercontent.com/99729800/221762033-3f98a9d4-6ddc-4667-8eb8-c2f2c237de3d.gif)
 
 Independent progression: Here fall things like skins that you can get in some way but don’t change the game; weapons that are not better or worse than others, just work differently and other similar things. Independent progression can be used to get some short-term goals for the player. Enter the gungeon is one example of this.
 
