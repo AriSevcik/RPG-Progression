@@ -3,17 +3,17 @@ My name is Ariadna Sevcik, I'm a student of the Bachelor’s Degree in Video Gam
 ## Introduction:
 Most, if not all games have some sort of progression, it is that thing that makes us want to continue playing: passing through levels, getting stronger, getting new abilities, new weapons and armor, following a story, it keeps us playing. There are a few types of progression.
 ## Types of progression:
-	Intrinsic progression: 
+Intrinsic progression: 
   This is the progression that motivates the player to get better at the game but without a direct influence of the game. A lot of fighting games have this type of progression in which the player gets better at the game from their own practicing and sometimes even studying of the game
 	
-	Extrinsic progression: 
+Extrinsic progression: 
   This is the more common type in RPGs, extrinsic progression means that the progression happens inside the game, outside of the player. This one also gets divided further, it is important to note that none of these types of progression are exclusive, they are frequently mixed together: 
   
-	Direct progression: You have certain milestones that, when completed, give you a predetermined power or let you continue the story. Most Pokémon games along with games like Undertale or Spiritfarer fit into this category.
+Direct progression: You have certain milestones that, when completed, give you a predetermined power or let you continue the story. Most Pokémon games along with games like Undertale or Spiritfarer fit into this category.
     
-	Independent progression: Here fall things like skins that you can get in some way but don’t change the game; weapons that are not better or worse than others, just work differently and other similar things. Independent progression can be used to get some short-term goals for the player.
+Independent progression: Here fall things like skins that you can get in some way but don’t change the game; weapons that are not better or worse than others, just work differently and other similar things. Independent progression can be used to get some short-term goals for the player.
     
-	Customizable progression: This is mostly skill-trees, giving the player the ability to choose how they want a character or environment to evolve, each choice unlocking the possibility of specific evolution for the player. The Witcher and Assassin’s Creed have this type of progression
+Customizable progression: This is mostly skill-trees, giving the player the ability to choose how they want a character or environment to evolve, each choice unlocking the possibility of specific evolution for the player. The Witcher and Assassin’s Creed have this type of progression
     
 ## Approach from math perspective
 •	Linear curve: Y = aX + b
