@@ -1,5 +1,6 @@
 # RPG-Progression
 My name is Ariadna Sevcik, I'm a student of the Bachelor’s Degree in Video Games CITM, at UPC.
+
 ## Introduction:
 Most, if not all games have some sort of progression, it is that thing that makes players want to continue playing: passing through levels, getting stronger, getting new abilities, new weapons and armor, following a story, it keeps us going. There are a few types of progression.
 ## Types of progression:
